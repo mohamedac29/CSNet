@@ -1,4 +1,4 @@
-## CSNet: Cross-Stage Subtraction Network for Real-Time Semantic Segmentation in Autonomous Driving  IEEE T-ITS [IEEE T-ITS] (https://ieeexplore.ieee.org/abstract/document/10817473)
+## CSNet: Cross-Stage Subtraction Network for Real-Time Semantic Segmentation in Autonomous Driving  IEEE T-ITS [T-ITS] (https://ieeexplore.ieee.org/abstract/document/10817473)
 
 
 
